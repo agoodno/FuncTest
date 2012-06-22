@@ -1,0 +1,36 @@
+<dataset>
+
+	<!-- Should have been inserted -->
+    <StdData
+	   txtKey="ANDY0"
+	   countyNo="63"
+	   descr="Testing insert      "
+	   txt="This needs to be removed to test insert."
+    />
+    
+    <!-- Should be untouched -->
+    <StdData
+       txtKey="ANDY1"
+       countyNo="63"
+       descr="Testing select      "
+       txt="This has been inserted to test select."
+    />
+    
+    <!-- Should have been updated - string "update" becomes "updated" -->
+    <StdData
+       txtKey="ANDY2"
+       countyNo="63"
+       descr="Testing updated     "
+       txt="This has been inserted to test updated."
+    />
+    
+    <!-- Should have been deleted -->
+    <!--
+    <StdData
+       txtKey="ANDY3"
+       countyNo="63"
+       descr="Testing delete"
+       txt="This has been inserted to test delete."
+    />
+     -->
+</dataset>

@@ -1,0 +1,18 @@
+<dataset>
+   <TxtType
+   	  txtType="[TXT_TYPE_CODE]"
+      descr="[TXT_TYPE_DESC]"
+   />
+   <StdData
+      txtKey="[STD_TXT_CODE]"
+      countyNo="[COUNTY_NO]"
+      descr="[STD_TXT_DESC]"
+      txt="[STD_TXT_TEXT]"
+   />
+   <CaseHist
+	  caseNo="[CASE_NO]"
+	  histSeqNo="[HIST_SEQ_NO]"
+	  countyNo="[COUNTY_NO]"
+	  eventType="[EVENT_TYPE]"
+   />
+</dataset>

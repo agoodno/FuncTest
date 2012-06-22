@@ -1,0 +1,17 @@
+<dataset>
+   <TxtType
+   	  txtType="[TXT_TYPE_CODE]"
+      descr="[TXT_TYPE_DESC]"
+   />
+   <StdData
+      txtKey="[STD_TXT_CODE]"
+      countyNo="[COUNTY_NO]"
+      descr="[STD_TXT_DESC]"
+      txt="[STD_TXT_TEXT]"
+   />
+   <TxtTypeStdData
+	  txtType="[TXT_TYPE_CODE]"
+      txtKey="[STD_TXT_CODE]"
+      countyNo="[COUNTY_NO]"
+   />
+</dataset>

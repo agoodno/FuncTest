@@ -1,0 +1,25 @@
+<dataset>
+   <CaseHist
+	  caseNo="[CASE_NO]"
+	  histSeqNo="[HIST_SEQ_NO]"
+	  countyNo="[COUNTY_NO]"
+	  caseType="CF"
+	  eventAmt="0.00"
+	  eventDate="2006-01-11 00:00:00.0"
+	  eventType="[EVENT_TYPE]"
+	  userId="[USER_ID]"
+	  courtRptrCode="31  "
+	  ctofcNo="2148"
+   />
+<!--
+	  prevRespCtofc
+	  tag
+	  tapeCounterNo
+	  tapeLoc
+	  wcisReported
+	  weightPd
+	  weightTime
+	  dktTxt
+	  sealCtofcNo 
+-->
+</dataset>

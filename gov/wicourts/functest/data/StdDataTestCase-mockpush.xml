@@ -1,0 +1,16 @@
+<dataset>
+	<!-- Mock up a user insert -->
+    <StdData
+	   txtKey="ANDY0"
+	   countyNo="63"
+	   descr="Testing insert      "
+	   txt="This needs to be removed to test insert."
+    />
+    <!-- Mock up a user update - string "update" becomes "updated" -->
+    <StdData
+       txtKey="ANDY2"
+       countyNo="63"
+       descr="Testing updated     "
+       txt="This has been inserted to test updated."
+    />
+</dataset>

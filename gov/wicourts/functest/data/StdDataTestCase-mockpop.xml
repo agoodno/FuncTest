@@ -1,0 +1,9 @@
+<dataset>
+    <!-- Mock up a user delete -->
+    <StdData
+       txtKey="ANDY3"
+       countyNo="63"
+       descr="Testing delete"
+       txt="This has been inserted to test delete."
+    />
+</dataset>
